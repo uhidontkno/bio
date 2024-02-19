@@ -1,0 +1,1 @@
+# Make Lighthouse not complain
